@@ -1,0 +1,4 @@
+- Bananas
+- Blueberries
+- Oatmeal
+- 2% Milk
